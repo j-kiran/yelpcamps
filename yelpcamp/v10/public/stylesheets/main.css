@@ -1,0 +1,29 @@
+.img-thumbnail img{
+    width:100%;
+
+}
+
+.img-thumbnail{
+    padding:0;
+}
+.img-thumbnail .caption{
+    padding:9px;
+}
+.orange {
+        padding:9px;
+
+}
+.Add{
+    padding:10px;
+}
+
+#delete-form {
+  display: inline;   
+}
+.delete-form {
+  display: inline;   
+}
+
+hr{
+    border-style:hidden;
+}
